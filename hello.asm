@@ -3,7 +3,7 @@
 #
 #  Data Area - allocate and initialize variables
 .data
-	prompt:.asciiz "Enter a integer: "
+	prompt:.asciiz "Enter an integer: "
 
 .text
 main:
